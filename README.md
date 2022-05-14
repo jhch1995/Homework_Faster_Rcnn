@@ -1,5 +1,5 @@
 # Homework_Faster_Rcnn
-Neural Networks and Deep Learning middle term homework 
+Neural Networks and Deep Learning middle term homework   
 参考自：https://github.com/bubbliiiing/faster-rcnn-pytorch
 
 ## 训练步骤
